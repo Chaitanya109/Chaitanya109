@@ -68,15 +68,15 @@ I'm a **Computer Science Engineering** student at **Malla Reddy College of Engin
 #### 💻 Programming Languages
 | Skill | Level |
 |-------|-------|
-| Python | ![85%](https://progress-bar.dev/85/?title=85%25) |
-| MySQL | ![75%](https://progress-bar.dev/75/?title=75%25) |
-| JavaScript | ![70%](https://progress-bar.dev/70/?title=70%25) |
+| Python | 85% |
+| MySQL | 75% |
+| JavaScript | 70% |
 
 #### 🌐 Web Development
 | Skill | Level |
 |-------|-------|
-| HTML5 | ![90%](https://progress-bar.dev/90/?title=90%25) |
-| CSS3 | ![85%](https://progress-bar.dev/85/?title=85%25) |
+| HTML5 | 90% |
+| CSS3 | 85% |
 
 </td>
 <td width="50%">
@@ -84,16 +84,16 @@ I'm a **Computer Science Engineering** student at **Malla Reddy College of Engin
 #### ☁️ Cloud & DevOps
 | Skill | Level |
 |-------|-------|
-| AWS | ![60%](https://progress-bar.dev/60/?title=60%25) |
-| Linux | ![70%](https://progress-bar.dev/70/?title=70%25) |
-| Git & GitHub | ![80%](https://progress-bar.dev/80/?title=80%25) |
+| AWS | 60% |
+| Linux | 70% |
+| Git & GitHub | 80% |
 
 #### 📊 Data Science & ML
 | Skill | Level |
 |-------|-------|
-| Pandas & NumPy | ![75%](https://progress-bar.dev/75/?title=75%25) |
-| Scikit-learn | ![70%](https://progress-bar.dev/70/?title=70%25) |
-| Deep Learning | ![65%](https://progress-bar.dev/65/?title=65%25) |
+| Pandas & NumPy | 75% |
+| Scikit-learn | 70% |
+| Deep Learning | 65% |
 
 </td>
 </tr>
