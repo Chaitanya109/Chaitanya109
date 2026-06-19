@@ -2,16 +2,6 @@
 
 <div align="center">
 
-![Profile Photo](https://github.com/Chaitanya109/Chaitanya109/blob/main/profile.jpg?raw=true)
-
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrng1BBq/giphy.gif" width="29px"> Welcome to my GitHub Profile!
-
-<div align="center">
-
 ```
 ╔════════════════════════════════════════════════════════════════════════════╗
 ║  💻 Aspiring Cloud Engineer | 🐍 Python Developer | 🤖 AI Enthusiast     ║
