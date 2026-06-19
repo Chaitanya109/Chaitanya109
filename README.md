@@ -49,34 +49,109 @@ I'm a **Computer Science Engineering** student at **Malla Reddy College of Engin
 
 <img align="right" width="250" src="https://media.giphy.com/media/Y4ak9Ki2GZYaK/giphy.gif" alt="Skills">
 
-### Programming Languages
+### 🎯 Quick Skill Badges
 
-**Python** ![85%](https://progress-bar.dev/85)  
-**MySQL** ![75%](https://progress-bar.dev/75)  
-**JavaScript** ![70%](https://progress-bar.dev/70)  
+<div>
 
-### Web Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**HTML5** ![90%](https://progress-bar.dev/90)  
-**CSS3** ![85%](https://progress-bar.dev/85)  
+</div>
 
-### Cloud & DevOps
+---
 
-**AWS** ![60%](https://progress-bar.dev/60)  
-**Linux** ![70%](https://progress-bar.dev/70)  
-**Git & GitHub** ![80%](https://progress-bar.dev/80)  
+### 📊 Detailed Skill Matrix
 
-### Data Science & Machine Learning
+<table>
+<tr>
+<td width="50%">
 
-**Pandas & NumPy** ![75%](https://progress-bar.dev/75)  
-**Scikit-learn** ![70%](https://progress-bar.dev/70)  
-**Deep Learning** ![65%](https://progress-bar.dev/65)  
+#### 💻 Programming Languages
+| Skill | Level |
+|-------|-------|
+| Python | ![85%](https://progress-bar.dev/85/?title=85%25) |
+| MySQL | ![75%](https://progress-bar.dev/75/?title=75%25) |
+| JavaScript | ![70%](https://progress-bar.dev/70/?title=70%25) |
 
-### Productivity Tools
+#### 🌐 Web Development
+| Skill | Level |
+|-------|-------|
+| HTML5 | ![90%](https://progress-bar.dev/90/?title=90%25) |
+| CSS3 | ![85%](https://progress-bar.dev/85/?title=85%25) |
 
-**MS Excel** ![85%](https://progress-bar.dev/85)  
-**MS Word** ![90%](https://progress-bar.dev/90)  
-**MS PowerPoint** ![88%](https://progress-bar.dev/88)
+</td>
+<td width="50%">
+
+#### ☁️ Cloud & DevOps
+| Skill | Level |
+|-------|-------|
+| AWS | ![60%](https://progress-bar.dev/60/?title=60%25) |
+| Linux | ![70%](https://progress-bar.dev/70/?title=70%25) |
+| Git & GitHub | ![80%](https://progress-bar.dev/80/?title=80%25) |
+
+#### 📊 Data Science & ML
+| Skill | Level |
+|-------|-------|
+| Pandas & NumPy | ![75%](https://progress-bar.dev/75/?title=75%25) |
+| Scikit-learn | ![70%](https://progress-bar.dev/70/?title=70%25) |
+| Deep Learning | ![65%](https://progress-bar.dev/65/?title=65%25) |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Skill Categories (Card View)
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+
+**📌 Programming Languages**
+- Python (Expert) ⭐⭐⭐⭐⭐
+- MySQL (Advanced) ⭐⭐⭐⭐
+- JavaScript (Intermediate) ⭐⭐⭐
+
+**🎨 Web Development**
+- HTML5 (Expert) ⭐⭐⭐⭐⭐
+- CSS3 (Advanced) ⭐⭐⭐⭐
+- JavaScript (Intermediate) ⭐⭐⭐
+
+**☁️ Cloud & DevOps**
+- AWS (Learning) ⭐⭐⭐
+- Linux (Advanced) ⭐⭐⭐⭐
+- Git & GitHub (Advanced) ⭐⭐⭐⭐
+
+**📊 Data Science & ML**
+- Pandas & NumPy (Advanced) ⭐⭐⭐⭐
+- Scikit-learn (Advanced) ⭐⭐⭐⭐
+- Deep Learning (Intermediate) ⭐⭐⭐
+
+**📈 Productivity Tools**
+- MS Excel (Advanced) ⭐⭐⭐⭐
+- MS Word (Expert) ⭐⭐⭐⭐⭐
+- MS PowerPoint (Advanced) ⭐⭐⭐⭐
+
+</div>
+
+---
+
+### 🎓 Proficiency Overview
+
+```
+Expert (90-100%)          ████████████████ 4 Skills
+Advanced (70-89%)         ██████████████   8 Skills
+Intermediate (50-69%)     ████████         3 Skills
+Learning (Below 50%)      ████             1 Skill
+```
 
 ---
 
